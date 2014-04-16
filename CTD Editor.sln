@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CTD Editor", "CTD Editor\CTD Editor.vcproj", "{AD22A14C-A8BC-4F16-B97E-FFA2C2819014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD22A14C-A8BC-4F16-B97E-FFA2C2819014}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AD22A14C-A8BC-4F16-B97E-FFA2C2819014}.Debug|Win32.Build.0 = Debug|Win32
+		{AD22A14C-A8BC-4F16-B97E-FFA2C2819014}.Release|Win32.ActiveCfg = Release|Win32
+		{AD22A14C-A8BC-4F16-B97E-FFA2C2819014}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
